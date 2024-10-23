@@ -1,0 +1,9 @@
+**Test Failure Output** - Pytest results containing details on which tests failed and why.
+
+**PDB (Python Debugger)** - Tool to debug Python code by stepping through execution.
+
+**Pytest Fixtures** - Shared test data/state managed by Pytest.
+
+**Pytest Plugins** - Extensions that provide added Pytest functionality.
+
+**Pytest Options** - Command line flags that control Pytest test runner behavior.
