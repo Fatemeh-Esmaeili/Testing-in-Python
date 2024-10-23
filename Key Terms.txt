@@ -1,6 +1,25 @@
+
+#Key Terms
+
+**Testing** - Validating code behavior through automated scripts to check for correctness and catch issues.
+
+**Unit Test** - Testing isolated chunks of code like functions or classes.
+
+**Test Function** - An isolated test wrapped in a Python function.
+
+**Test Class** - A class that contains related test methods.
+
+**Assertion** - Boolean checks in test code to verify values match expectations.
+
+**Fixture** - Shared test data or state managed by the testing framework.
+
+
+
+
+
 **Test Failure Output** - Pytest results containing details on which tests failed and why.
 
-**PDB (Python Debugger)** - Tool to debug Python code by stepping through execution.
+**PDB (Python Debugger)** - Tool to debug Python code by stepping dynamically through execution.
 
 **Pytest Fixtures** - Shared test data/state managed by Pytest.
 
