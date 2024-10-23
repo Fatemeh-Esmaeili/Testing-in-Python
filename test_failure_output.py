@@ -1,4 +1,4 @@
-from utils1 import str_to_int
+from utils3 import str_to_int
 
 
 def test_str_to_int_fails():

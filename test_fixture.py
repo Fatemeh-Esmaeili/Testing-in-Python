@@ -1,5 +1,5 @@
 import os
-from utils import str_to_bool
+from utils3 import str_to_bool
 
 
 def write_integer(string, path):
